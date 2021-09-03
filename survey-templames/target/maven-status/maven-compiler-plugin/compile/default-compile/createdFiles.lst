@@ -1,0 +1,6 @@
+com\tm\lamda\surveytemplames\config\NameService.class
+com\tm\lamda\surveytemplames\handler\TemplateHandler.class
+com\tm\lamda\surveytemplames\config\DynamoDBConfig.class
+com\tm\lamda\surveytemplames\SurveyTemplamesApplication.class
+com\tm\lamda\surveytemplames\repository\TMSurveyTemplateRepository.class
+com\tm\lamda\surveytemplames\model\Survey.class
